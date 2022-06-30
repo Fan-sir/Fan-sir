@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=Fan-sir&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=Fan-sir)
 
 
 
